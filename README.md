@@ -1,4 +1,4 @@
-# go gRPC Practice Quick start application to review and annotate the basics.
+# go gRPC Quick start application to review and annotate the basics.
 
 # Hello World
 
